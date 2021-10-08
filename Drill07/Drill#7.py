@@ -53,6 +53,6 @@ while running:
     update_canvas()
     frame = (frame + 1) % 8
 
-    # handle_events()
+    # handle_events()   
 
 close_canvas()
