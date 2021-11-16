@@ -4,7 +4,7 @@ from ball import Ball
 
 import game_world
 
-# Boy Run Speed
+# Boy Run Speed 74pixel 220cm
 PIXEL_PER_METER = (10.0 / 0.3)  # 10 pixel 30 cm
 RUN_SPEED_KMPH = 20.0  # Km / Hour
 RUN_SPEED_MPM = (RUN_SPEED_KMPH * 1000.0 / 60.0)
